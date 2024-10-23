@@ -32,7 +32,7 @@ To run the game locally:
     ```bash
     git clone https://github.com/yourusername/dice-game.git
     ```
-2. Open the `index.html` file in your browser to start playing.
+2. Open `https://jacques8787.github.io/Dice-Game/ to start playing.
 
 Feel free to explore the code, contribute, or use it for learning!
 
